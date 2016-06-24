@@ -6,8 +6,8 @@
 #               Requires
 #                - This requirement
 #                - That requirement
-#       AUTHOR: Jeffrey Silverman <jeff@blispay.com>
-#    COPYRIGHT: Copyright (c) 2016, person/company
+#       AUTHOR: Jeffrey Silverman <jeffrey.d.silverman@gmail.com>
+#    COPYRIGHT: Copyright (c) 2016, Jeffrey D. Silverman
 #      VERSION: 0.1.0
 #      CREATED: YYYY-MM-DD
 #    CHANGELOG: as required
